@@ -2,13 +2,11 @@
 title: Markdown Tips
 ---
 
+[Open this in Typora](./index.md)
 
+<a href="{{site.baseurl}}/markdown_documentation" download="download.md" target="_blank" >Download markdown</a>
 
-<a href="{{site.baseurl}}/Markdown.zip" download="Markdown.zip" target="_blank" >Download Markdown File</a>
-
-Open this in <a href="https://typora.io/" target="_blank">Typora</a>
-
-
+NOOOOO
 
 Add --- then hit enter- this is where front matter goes, for example the title, which is case sensitive and needs a :  
 
