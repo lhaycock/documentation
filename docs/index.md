@@ -4,17 +4,17 @@ title: Markdown Tips
 
 
 
-<a href="{{site.baseurl}}/Markdown.zip" download="Markdown.zip" target="_blank" >Download Markdown File</a>
+<a href="{{site.baseurl}}/Markdown.zip" download="Markdown.zip" target="_blank" >Download Markdown File</a> 
 
 Open this in <a href="https://typora.io/" target="_blank">Typora</a>
 
+This is where you can see what the markdown looks like and can toggle back and forth between markdown and code by using Ctrl + /
 
+Add --- then hit enter- this is where front matter goes, for example the "title: ", which is case sensitive and needs a :  
 
-Add --- then hit enter- this is where front matter goes, for example the title, which is case sensitive and needs a :  
+You can also add weights if you would like the pages to show up in the sidebar in a certain order- 1 being first, etc:
 
-You can also add weights 
-
-You can toggle back and forth between markdown and code by using Ctrl + /
+weight: 1
 
 ### Headers
 
@@ -28,7 +28,7 @@ You can toggle back and forth between markdown and code by using Ctrl + /
 
 ##### Header
 
-###You need to add a space after the #
+###You need to add a space after the #  #
 
 ### Adding Emphasis
 
